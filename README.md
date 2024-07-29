@@ -3,10 +3,13 @@ A web portal aimed to summarize and extract keywords from candidates answer in i
 
 To run:
 1. Download all the files
-2. Enter candidate's details and the candidate video's file name (note: video cannot exceed 1 mins or size exceed 10 MB)
-3. Run All
-4. A csv file is generated, upload the csv file to google sheet
-5. From google sheet, choose add-ons > google appScript
+2. Install Anaconda
+3. Open Jupyter Notebook
+4. Files > Open hackathon.ipynb
+5. Enter candidate's details and the candidate video's file name (note: video cannot exceed 1 mins or size exceed 10 MB)
+6. Run All
+7. A csv file is generated, upload the csv file to google sheet
+8. From google sheet, choose add-ons > google appScript
 
 App Script: https://script.google.com/u/1/home/projects/1e2WRepuZBVLKwPCNrLa5_eXeptCPMq8wvb6tbOCC2PuXn05zbd1f4vHA/edit
 
