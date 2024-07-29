@@ -1,4 +1,4 @@
-CandidateID,CandidateName,Summarization,Keyword
-1,asdf asdf asdf,I graduated with a Bachelor of science in nursing degree in St Louis University so coming from the healthcare healthcare field and entering the call centre industry was a good English learning for me. I didn't have any background back then that I was grateful for the opportunity that was given to me by my previous companies and I easily learn to vote because myself.,"[('credit', 0.30499714066520933), ('healthcare', 0.30499714066520933), ('vote', 0.15249857033260467), ('company', 0.15249857033260467), ('didn', 0.15249857033260467)]"
-2,test,Bob's summarization text...,Bob's keywords...
-3,test,Charlie's summarization text...,Charlie's keywords...
+CandidateID,CandidateName,CandidateEmail,Position,Summarization,Keyword
+1,Ke Yu,keyutan@gmail.com,SE,I graduated with a Bachelor of science in nursing degree in St Louis University so coming from the healthcare healthcare field and entering the call centre industry was a good English learning for me. I didn't have any background back then that I was grateful for the opportunity that was given to me by my previous companies.,"['credit', 'healthcare', 'vote', 'company', 'didn']"
+2,test,asdf,asdfs,asdfs,asdfsdafsd
+3,test,asdfsa,asdfsa,asdfsdaf,asdfasdfs
