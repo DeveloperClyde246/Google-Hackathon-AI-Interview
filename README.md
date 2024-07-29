@@ -1,4 +1,5 @@
 # GoogleHackathonAI-Interview
+A web portal aimed to summarize and extract keywords from candidates answer in interview. Simplifying HR workloads.
 
 To run:
 1. Download all the files
