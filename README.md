@@ -11,7 +11,7 @@ To run:
 7. A csv file is generated, upload the csv file to google sheet
 8. From google sheet, choose add-ons > google appScript
 
-App Script: https://script.google.com/u/1/home/projects/1e2WRepuZBVLKwPCNrLa5_eXeptCPMq8wvb6tbOCC2PuXn05zbd1f4vHA/edit
+App Script: https://script.google.com/d/1cxJ6AdtDvOnSTKm9hXD-WmQ2ZzyIwOj8UZcIW4wcyVYugOfIZ0IZTmia/edit?usp=sharing
 
 Google Sheet: https://docs.google.com/spreadsheets/d/1_6jFYi53ZWMg-s4ITZa7G6dzbBVzdUObOW7W9TmcN3A/edit?gid=0#gid=0
 
